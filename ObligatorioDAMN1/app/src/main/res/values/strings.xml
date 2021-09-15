@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ObligatorioDAMN1</string>
+    <string name="sign_in">Sign In</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="repita_su_contrase_a">Repita su contraseña</string>
+    <string name="ya_tengo_cuenta">Ya tengo cuenta</string>
+    <string name="phone">Teléfono</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="image">image</string>
+    <string name="next">next</string>
+    <string name="location_permission_denied">Permission Denied</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
